@@ -1,0 +1,5 @@
+numpy
+matplotlib
+requests
+pyside6
+biopython
